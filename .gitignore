@@ -1,4 +1,7 @@
 var/*
 media/*
+app/etc/local.xml
 downloader/*
 includes/src/*
+status.txt
+diff.txt
